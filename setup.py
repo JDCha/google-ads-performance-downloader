@@ -7,7 +7,9 @@ setup(
 
     install_requires=[
         'googleads==11.0.1',
-        'click>=6.0'
+        'click>=6.0',
+        'mara-config>=0.1'
+
     ],
 
     packages=find_packages(),
